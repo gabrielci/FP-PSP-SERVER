@@ -150,6 +150,4 @@ public class TermCondPolDTO {
     public static Builder builder() {
         return new Builder();
     }
-
-
 }
